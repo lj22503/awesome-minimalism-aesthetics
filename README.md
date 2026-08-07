@@ -1,3 +1,16 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 1c835e55ba3b06878e6538b2edadf703_185c2eec916711f1a102525400826444
+    ReservedCode1: pYatqYIPtyjhIgpLXEXyuhK2emFc7mGGcZTNaZEQCZuywDctDFQP/tI0EPTdxeWcSD2nlr2M9gSG8oBLlsZeG26j83xbIbZ8CgJw02WSVarsqbXVfsRe09i3BlEUsC0LSSqj5+9n6U69JfUv90znwfhnXVMqM8SOnu+9CSC1FnzZwcwdqFV9NQaT7nI=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 1c835e55ba3b06878e6538b2edadf703_185c2eec916711f1a102525400826444
+    ReservedCode2: pYatqYIPtyjhIgpLXEXyuhK2emFc7mGGcZTNaZEQCZuywDctDFQP/tI0EPTdxeWcSD2nlr2M9gSG8oBLlsZeG26j83xbIbZ8CgJw02WSVarsqbXVfsRe09i3BlEUsC0LSSqj5+9n6U69JfUv90znwfhnXVMqM8SOnu+9CSC1FnzZwcwdqFV9NQaT7nI=
+---
+
+
+
 # Awesome Minimalism Aesthetics
 
 > 极简主义 × 美学设计资源导航 | 一份给"少即是美"爱好者的指路清单
@@ -25,6 +38,28 @@
 | [The Beauty of Less](https://www.designyourway.net/blog/minimalist-graphic-design/) | 极简平面设计原则长文，讲清 Bauhaus → 瑞士国际主义的设计脉络 | 想理解极简内核而非只抄样式的人 |
 | [David's Digital Garden](https://notes.davidkopp.de/30-knowledge/tools/minimalistic-css-styles-layouts-components-and-frameworks) | 极简 CSS 资源集散地 | 开发者、深度研究者 |
 | [Hundred Rabbits](https://hundredrabbits.com/) | 极简/低功耗设计哲学的实践社区 | 理念派、极客 |
+
+## 🀄 中国传统极简美学（Chinese Minimalism）
+
+> 西方极简做几何削减，中国极简做"减法 + 气韵"——留白、线条、克制，中国人玩了两千年。
+
+| 资源 | 说明 | 适合谁 |
+| --- | --- | --- |
+| 老子《道德经》 | "少则得，多则惑""无之以为用"——极简哲学的东方原点 | 想追极简思想源头的人 |
+| 宗白华《美学散步》 | 把"意境"翻译成现代语言的第一本书 | 设计/美学深度爱好者 |
+| 《芥子园画谱》 | 白描/山水技法范本，入门必临 | 想练"极简线"的人 |
+| 马远《寒江独钓图》 | 一叶扁舟、余皆虚空——留白教科书 | 研究 Negative Space 的人 |
+| 王世襄《明式家具珍赏》 | 线条流畅、零多余装饰的器物极简 | 产品/家具设计向 |
+| 原研哉《设计中的设计》《白》 | 把"白"翻译成当代设计语言 | 现代极简实践者 |
+
+| 在线资源 | 说明 |
+| --- | --- |
+| [故宫数字文物库](https://digicol.dpm.org.cn/) | 高清文物资库，宋瓷/书画随便翻 |
+| [中华珍宝馆](https://g2.ltfc.net/) | 高清历代书画，放大看线条 |
+| [书格](https://shuge.org/) | 古籍善本影印，画谱原貌可读 |
+| [芥子园画谱（在线版）](https://m.zhangyue.com/readbook/11204194/3) | 画谱掌上可读 |
+| [留白之美：从马远夏圭到现代极简设计](https://www.tcpc.org.cn/21521.html) | 传统到现代极简的"互译"现成文章 |
+| [光明网：中国美学与极简主义](https://epaper.gmw.cn/gmrb/html/2022-05/20/nw.D110000gmrb_20220520_4-16.htm) | 主流媒体视角的中国美学解读 |
 
 ## 🎨 灵感网站（找"美"的地方）
 
@@ -100,4 +135,5 @@
 ## 📜 License
 
 CC0-1.0
+*（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
